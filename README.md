@@ -1,8 +1,6 @@
 *Hello everyone!*
-My name is Anton and I like to code stuff.
+My name is Maeve and I like to code stuff.
 
-The dumpsterfire that is my previous prjects not meant for public eye, those are my repos.
+I have plenty of projects, some new, some old, some fun, some not really.
 
-Have a look if you'd like.
-
-Take care!
+I'm a web dev so most of these are web apps in Vue :3
